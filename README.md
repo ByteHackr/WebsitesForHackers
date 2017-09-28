@@ -1,1 +1,155 @@
-# WebsitesForHackers
+
+#**Useful_Websites_For_Pentesters**
+
+This repository is to make life of the pentester easy as it is a collection of the websites that can be used by pentesters for day to day studies and to remain updated. New updates always welcome :) any updates required mail me jdotpraveshr1atgmaildotcom
+
+  - [Security News websites](https://github.com/HSIS007/Useful_Websites_For_Pentester/blob/master/README.md#security-news-websites)
+  - [Information Gathering Websites](https://github.com/HSIS007/Useful_Websites_For_Pentester#Information-Gathering-Websites) 
+  - [Network Pentesting Websites](https://github.com/HSIS007/Useful_Websites_For_Pentester#network-pentesting-websites) 
+  - [Webapplication Pentesting Websites](https://github.com/HSIS007/Useful_Websites_For_Pentester#webapplication-pentesting-websites)
+  - [Mobile Application Pentesting Websites](https://github.com/HSIS007/Useful_Websites_For_Pentester#mobile-application-pentesting-websites)
+  - [Internet of Things Pentesting Websites](https://github.com/HSIS007/Useful_Websites_For_Pentester/blob/master/README.md#internet-of-things-pentesting-websites)
+  - [Exploit Development Tutorial Websites](https://github.com/HSIS007/Useful_Websites_For_Pentester/blob/master/README.md#exploit-development-tutorial-websites)
+  - [Threat Intelligence Websites](https://github.com/HSIS007/Useful_Websites_For_Pentester/blob/master/README.md#threat-intelligence-websites)
+  - [Social Enggineering Tutorials Websites](https://github.com/HSIS007/Useful_Websites_For_Pentester/blob/master/README.md#social-enggineering-tutorials-websites)
+  - [Thick & Thin App Pentesting Websites](https://github.com/HSIS007/Useful_Websites_For_Pentester/blob/master/README.md#thick--thin-app-pentesting-websites)
+  - [Latest Exploit Codes Wesbites](https://github.com/HSIS007/Useful_Websites_For_Pentester/blob/master/README.md#latest-exploit-codes-wesbites)
+  - [Latest Shells Websites](https://github.com/HSIS007/Useful_Websites_For_Pentester/blob/master/README.md#latest-shells-websites)
+  - [TOR Usefull Websites](https://github.com/HSIS007/Useful_Websites_For_Pentester/blob/master/README.md#tor-usefull-websites)
+  - [Tutorial Websites](https://github.com/HSIS007/Useful_Websites_For_Pentester/blob/master/README.md#tutorial-websites)
+  - [Useful Blogs](https://github.com/HSIS007/Useful_Websites_For_Pentester/blob/master/README.md#useful-blogs)
+  - [Tools Websites](https://github.com/HSIS007/Useful_Websites_For_Pentester/blob/master/README.md#tools-websites)
+  - [Telecom Pentesting Websites](https://github.com/HSIS007/Useful_Websites_For_Pentester/blob/master/README.md#telecom-pentesting)
+
+######Security News websites
+
+- [Wired Threat Level](http://www.wired.com/category/threatlevel) :- Keeps you updated with security news and latest technology.
+- [krebsonsecurity](http://krebsonsecurity.com/) :- In Depth investigation of the cyber attacks and various articles related to info security.
+- [Dark Reading](http://www.darkreading.com/):- Dark Reading encompasses communities like Attacks & Breaches, Application Security, Cloud Security, Data Leaks & Insider Threats, Endpoint Security & Privacy etc.
+- [Threat Post](https://threatpost.com):- Providing real, solid news coverage and details explianation of the attacks.
+- [Reddit](https://www.reddit.com/) :- It contains all hot, new, rising, controversial topics related to hacking world.
+- [Naked Security](https://nakedsecurity.sophos.com) :- One of the award winning security news websites with good solid look at the latest news.
+- [TheRegister](http://www.theregister.co.uk/) :- Huge collection of security news and not only security news they cover everything.
+- [DarkNet](http://www.darknet.org.uk/):- On this blog they share and comment on interesting infosec related news, tools and more.
+- [Helpnetsecurity](https://www.helpnetsecurity.com/):- Net Security is an independent site, focusing on information security since 1998.
+- [SecurityAffairs](http://securityaffairs.co/wordpress) :- This website contains all the news from the world of cyber crime, hacking, security, social networks, cyber warfare etc.
+- [TechRepublic](http://www.techrepublic.com/blog/it-security/) :- Security bloggers help keep you up to date on how to protect your network through news, updates, advice, and opinions on how you can stay ahead of hackers
+- [SecurityWeekly](http://securityweekly.com/):- Security Weekly newsletter will provide you with information and updates on Security Weekly webcasts, podcasts, training and more!
+- [GoogleSecurity](https://security.googleblog.com/):- The latest news and insights from Google on security and safety on the Internet
+- [SCMagazine](http://www.scmagazine.com/the-data-breach-blog/section/1263/):- SC Magazine arms information security professionals with the in-depth, unbiased business and technical information they need to tackle the countless security challenges they face.
+- [TrustedSec](http://www.trustedsec.com/news-and-events/) :- An organization run by David Kennedy is a good source for news and events.
+- [HotForSecurity](http://www.hotforsecurity.com/) :- Winner of the best european security blog, it covers various security topics and news to learn from.
+- [Cyren](http://blog.cyren.com/) :- Contains various articles on malware analysis, anti-phishing, email-security, anti-spam, security research and analysis etc. 
+- [Offense-in-depth](http://www.offense-in-depth.com/) :- Website can be used to learn some tricks while pentesting
+- [Beyond Security](https://blogs.securiteam.com/) :- Covers the latest vulnerability and its details
+- [elearnsecurity](https://blog.elearnsecurity.com/category/blog):- This blog covers updated news and attacks in the field of information security also includes video demonstrations of attacks.
+- [Infosecurity_Magazine](http://www.infosecurity-magazine.com/):- This magazine is totally dedicated to infosec and covers daya to day upgrades, hack attacks and news related to IT security world.
+- [Security_Ledger](https://securityledger.com/) :- The independent blog focuses on cybersecurity, bringing insight to subjects such as the internet of things, malware, government policy, and consumer security.
+- [Infosec Island](http://infosecisland.com/blogs.html) :- InfoSec Island aims to provide a place for IT and network professionals to go to find help and information quickly and easily, by combining an online community, infosec portal, and a social network
+- [DataLossDB](http://blog.datalossdb.org/) :- DataLossDB provides links to incidents by month, latest and largest incidents, and posts from the Blotter to provide as many details about information security as possible.
+- [Homeland Security](http://www.homelandsecuritynewswire.com/topics/cybersecurity) :- Covers the latest news related to cyber security.
+- [The Hacker News](http://thehackernews.com/) :- Hackernews contains the latest news and updates from security industry
+- [Security News Portal](http://securitynewsportal.com/) :- Worth perusing if you are into Cyber Security, covvers only cyber security related topics, chat rooms , etc. also includes subdomain like  InfoSysSec.com ,SecurityChatX.co,SecurityForumX.com  SecurityNewsPortal.com,HomelandSecurityX.com,InfoSecMagazine.com.
+- [HackInsight](http://www.hackinsight.org/news.html) :- Nice webiste to keep you updated on security news and latest attack vectors.
+- [PacketStorm](https://packetstormsecurity.com/) :- It is home to system administrators who need to keep their network up to date, security researchers who discover and report new findings, governments and corporations that need to understand current events, security vendors that want to develop new signatures for their software, and many others.
+
+######Information Gathering Websites
+
+The information gathering steps of footprinting and scanning are of utmost importance. Good information gathering can make the difference between a successful pen test and one that has failed to provide maximum benefit to the client.
+
+- [Shodan](https://www.shodan.io/) :- Very useful site for all the pentesters and hackers , as they say it is a search engine for IOT, webcams,power plants, refrigrators for connected devices, however an hacker can also use this search engine to check for open services and applications on their trageted organization.
+- [ZoomEye](https://www.zoomeye.org/) :- Works similar as shodan but is underdevelopment but helpfull for pentesters and hackers
+- [Censys](https://censys.io/) :- Driven by Internet-wide scanning, Censys lets researchers find specific hosts and create aggregate reports on how devices, websites, and certificates are configured and deployed.
+- [Robtex](https://www.robtex.com/):- Website which provides graphical informations from DNS and WhoIs
+- [Whois](List of whois site) :- [ICANN](http://www.icann.org),[IANA](http://www.iana.com),[NRO](http://www.nro.net),[AFRINIC ](http://www.afrinic.net),[APNIC](http://www.apnic.net),[ARIN](http://ws.arin.net),[LACNIC](http://www.lacnic.net),[RIPE](http://www.ripe.net), all these websites or organizations is best useful for whois lookup for any IP adresses as all the IP adresses are registered here.
+- [Netcraft](http://uptime.netcraft.com/) :- Netcraft measures and makes available the response times of leading hosting providers' sites.
+- [Twoogel](http://twoogel.com/) :- Its a combined search engine for twitter and google, useful in information gathering of some person.
+- [WhosTalkin](http://webhosting.info/whois/) :- Quite fast and very useful for whois lookup.
+- [FOCA](https://www.elevenpaths.com/labstools/foca/index.html) :- FOCA (Fingerprinting Organizations with Collected Archives) is a tool used mainly to find metadata and hidden information in the documents its scans. These documents may be on web pages, and can be downloaded and analyzed with FOCA.
+- [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) :- Recon-ng is a full-featured Web Reconnaissance framework.Recon-ng provides a powerful environment in which open source web-based reconnaissance can be conducted quickly and thoroughly.
+- [Kloth](http://www.kloth.net/) :- This site is mostly about radio communications (aeronautical and maritime) and internet (DNS nslookup, whois, bad bots) and anti-spam.
+
+######Network Pentesting Websites
+
+######Webapplication Pentesting Websites
+
+######Mobile Application Pentesting Websites
+
+######Internet of Things Pentesting Websites
+
+- [IOT Village](https://www.iotvillage.org/) :- The village consists of workshops on hacking numerous off-the-shelf devices (e.g. medical devices, home appliances, routers, and storage devices), live educational talks and a variety of contests. 
+- [iotlist](http://iotlist.co/) :- Contains the list of all the IOT products which you can buy , see video . Interesting website
+- [Particle](https://www.particle.io/) :- Particle’s full-stack Internet of Things (IoT) device platform gives you everything you need to securely and reliably connect your IoT devices to the web.
+
+
+######Exploit Development Tutorial Websites
+
+- [CoreLan](https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/) :- Corelan GCV has been teaching live win32 exploit dev classes at various security cons and private companies & organizations. 
+- [FuzzySecurity](http://www.fuzzysecurity.com/tutorials/expDev/1.html) :- They contain multi-part exploit development series which are helpful for someone who want to learn exploit development.
+- [Opensecuritytraining-part1](http://opensecuritytraining.info/Exploits1.html)
+- [Opensecuritytraining-part2](http://opensecuritytraining.info/Exploits2.html)
+- [SecurityTube - exploit research megaprimer](http://www.securitytube.net/groups?operation=view&groupId=7)
+- [SecurityTube - buffer overflow megaprimer](http://www.securitytube.net/groups?operation=view&groupId=4)
+- [SecurityTuber - Format string vulnerabilities megaprimer](http://www.securitytube.net/groups?operation=view&groupId=3)
+- [SecuritySifty - part 1-7](http://www.securitysift.com/windows-exploit-development-part-1-basics/) :- They contain  seven parts of exploit development series which are helpful for someone who want to learn exploit development.
+- [Massimiliano Tomassoli’s blog](http://expdev-kiuhnm.rhcloud.com/2015/05/11/contents/)
+- [Samsclass](https://samsclass.info/127/127_F15.shtml)
+- [sploitfun](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/) :- Linux (x86) Exploit Development Series
+- [thegreycorner](http://www.thegreycorner.com/2010/01/beginning-stack-based-buffer-overflow.html):- Stack Based Buffer Overflow Tutorials
+
+
+######Threat Intelligence Websites
+
+######Social Enggineering Tutorials Websites
+
+- [trustedsec](https://www.trustedsec.com/july-2016/social-engineer-toolkit-set-v7-3-underground-released/) :- Creator of social engg toolkit and various attack vecctors
+
+######Thick & Thin App Pentesting Websites
+
+######Latest Exploit Codes Wesbites
+
+- [ExploitDB](https://www.exploit-db.com/) :- Bible for all the exploits for hackers, security proffessionals , developers. You can get the latest exploit code from this website and also can upload your own. Amazing site for all.
+- [GoogleHackingDatabase](https://www.exploit-db.com/google-hacking-database/) :- Another bible for those who want to have fun with google and learn google hacking scripts. Importance of google hacking is only understood by true hacker or security proffessional
+- [CXSecurity](https://cxsecurity.com/) :- Vulnerability Database
+
+######Latest Shells Websites
+
+######TOR Usefull Websites
+
+######Tutorial Websites
+
+- [Cybrary](https://www.cybrary.it/):- Very useful website for all the pentester and begineer in this field, as they provide free courses based on the skill set, also if you want to share you knowledge you can that as well.
+- [Samsclass](http://attack.samsclass.info/):-  Few challenges for testing/sharpening your Linux Kali kills.
+- [Pentest Standard](http://www.pentest-standard.org/index.php/Main_Page):- If someone wants to learn pentesting step by step, it is very useful site for those people cover everything related to a penetration test.
+- [SecurityTube](http://www.securitytube.net/) :- Its a youtube for security proffessionals, contains large amount of tutorial from begineer to advance level. Watch, Learn and Contribute
+- [FuzzySecurity](http://fuzzysecurity.com/) :-  You can expect to find here are: tutorials, interesting links/videos and some scripting related to hacking.
+- [PentesterAcademy](http://www.pentesteracademy.com/) :- It is part of security tube organization where they provide paid access to there resources, videos tutorials and also certifications related to programming and pentesting.
+
+######Useful Blogs
+
+- [HackSecure007](http://hacksecure007.blogspot.in/) :- Its my blog where i update my new tricks and my ways of pentesting.
+- [SecuritySift](http://www.securitysift.com/) :- Mike Czumak constantly researching various security topics and use this blog as a means to share some of that research and give back to a security community.
+- [FoxGloveSecurity](http://foxglovesecurity.com/) :- A blog run by the team of foxglovesecurity is an interesting blog to follow as they covers practical pentesting topics and interesting to read from.
+
+######Tools Websites
+
+- [SecList](http://seclist.us/) :- IS a Community WITH SCOPE Privileges Escallation, Harvesting, Enummeration, Interception, Reconnaissance, Cryptography, Encryption, MiTM-Man-In-The-Middle-Attack, Reverse Engineering, Backdoors, Payload, Phishing, Brute Force, Fuzzer, Forensics, DFIR, Malware, Anti-Malware, Penetration-Testing, Firewall, Ethical Hacker, Injector, Denial Of Service, Obfuscator, Automation, Sniffer, Keylogger, Scada Tester, Voip/Sip, Linux-Distro, Vulnerability-Scanner, Mobile-Security, Exploits, Trojan, Security-Researchers, HMI-SCADA AND OTHER RANDOM GARBAGE.
+
+
+######Telecom Pentesting
+
+- [p1sec](http://www.p1sec.com/corp/training/) : Provide some good study material and training on Telecom Pentesting
+- [ss7map](http://ss7map.p1sec.com/) : Provide the Mobile Telecom Operators security level from the perspective of anyone on the international SS7 network.
+- [Media CCC](https://media.ccc.de/) : This site offers a wide variety of video and audio material distributed by the Chaos Computer Club provided in native formats (usually MPEG and/or Vorbis families) for online viewing.
+- [ss7MAPer](https://insinuator.net/2016/02/ss7maper-a-ss7-pen-testing-toolkit/) : A SS7 pen testing toolkit
+- ()
+
+
+
+
+
+
+
+
+
+
