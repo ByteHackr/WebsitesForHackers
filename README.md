@@ -150,9 +150,9 @@ The information gathering steps of footprinting and scanning are of utmost impor
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/behindlinux
-[2]: http://www.facebook.com/behindlinux
-[6]: http://www.github.com/behindlinux
+[1]: http://www.twitter.com/bytehackr
+[2]: http://www.facebook.com/bytehackr
+[6]: http://www.github.com/bytehackr
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
